@@ -11,10 +11,6 @@ This project demonstrates a simple and clean structure with a header, sidebar, m
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## 🧱 Layout Sections
 
 - **Header**
